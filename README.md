@@ -60,7 +60,7 @@ Soft Skills:
 <!--Languages and Tools Section-->       
 <h3 align="left">Connect with Me</h3> 
 <p align="left">
-<a href="https://github.com/EmmadiDivyaSrujana"><img src="https://img.shields.io/badge/-LederDev-black?logo=github&style=flat-square"/></a>
+<a href="https://github.com/LederDev"><img src="https://img.shields.io/badge/-LederDev-black?logo=github&style=flat-square"/></a>
 <a href="https://www.linkedin.com/in/leder-castillo-65857a2a0/"><img src="https://img.shields.io/badge/-Leder_Castillo-blue?logo=linkedin&style=flat-square"></a>
 <a href="mailto:ledercs468@gmail.com"><img src="https://img.shields.io/badge/-ledercs468@gmail.com-black?logo=gmail&style=flat-square"/></a>
 </p>

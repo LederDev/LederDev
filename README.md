@@ -42,6 +42,19 @@
 </p>
 </div>
 
+<!--Languages and Tools Section-->       
+<h2 align="left">Software and Tools</h2> 
+<p align="left">
+Soft Skills:
+
+- Problem Solving, TeamWork, Communication 
+
+![Ibrahim's github stats](https://github-readme-stats.vercel.app/api?username=IhChowdhury&show_icons=true&theme=radical)
+
+----
+</p>
+
+
 <br />
 <div class="footer">
 <!--Languages and Tools Section-->       

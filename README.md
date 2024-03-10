@@ -1,6 +1,7 @@
 <div align="center">
   <h1 align="center"><b>Hi , I'm LederDevs </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  <img src="https://github.com/LederDev/LederDev/assets/162763730/1aba3771-48b8-4b59-a7c9-f09d73ba78ec">
+  <img src="https://github.com/LederDev/LederDev/assets/162763730/58231adf-3789-47fb-be87-e87dcd418f51">
+
   <div class="header">
   </div>
 </div>

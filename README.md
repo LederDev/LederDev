@@ -9,8 +9,9 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <div>
   <p>
-  Análisista y Desarrollador de Sistemas de Información con grandes habilidades en diseño, creación, implementación y administración de sistemas. Al igual en diseño y administración    de bases de datos MysQl server y SQL serve. Dominio lenguajes y en sistemas integrados. Capaz de autogestionar
- eficazmente  proyectos.
+  Análisista y Desarrollador de Sistemas de Información con grandes habilidades en diseño, creación, implementación y administración de sistemas. Analista de Datos con pensamiento crítico en el 
+  diseño y administración    de bases de datos MysQl server y SQL serve. Dominio lenguajes y en sistemas integrados. Capaz de autogestionar
+  eficazmente  proyectos.
   </p>
 </div>
 <div class="body">
